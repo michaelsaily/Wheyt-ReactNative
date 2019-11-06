@@ -1,1 +1,6 @@
-Test readme
+**App Summary and Purpose**
+
+Wheyt was developed through the use of the React Native mobile application framework, as a four-week personal project. The aim of the project was to learn the React Native mobile-application framework, in an attempt to acquire the skills which could be later applied to create more complex applications instead. 
+
+The application is a management tool primarily aimed towards individuals that are actively trying to lose weight. It provides them with the tools they need to better manage themselves in order to achieve their goals. Wheyt allows it’s users to track the foods they have eaten through the meal and calorie tracking capabilities. Registered individuals are also provided with access to a limited selection of relevant health- related articles, in hopes that the gained knowledge will assist, supplement or boost their weight-loss. Additionally, users are able to maintain a historical record of their weight-loss in order to monitor how closely they are meeting their overall goals. This historical weight-loss record is then analysed through a number of different metrics, allowing the app to provide users with personalised, custom feedback on their current progress.
+
