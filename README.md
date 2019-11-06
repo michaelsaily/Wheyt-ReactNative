@@ -18,3 +18,7 @@ Google Firebase provides a supporting backend development platform which aids de
 
 The images provided (below) showcases my application’s login and registration pages. The pages are tasked with the responsibility of retrieving, validating and processing user login information. Should real time input validation fail to pass on any of the inputs provided to the user the input field is underlined in red, with a corrective message being presented to the user in order to resolve the issue. 
 
+![Login Page](AppImages/Login.png)
+
+![Register Page](AppImages/Register.png)
+
